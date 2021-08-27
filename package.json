@@ -1,6 +1,6 @@
 {
   "name": "@naartti/react-localize-redux",
-  "version": "3.5.3",
+  "version": "3.5.4",
   "private": false,
   "description": "Localization library for handling translations in React",
   "main": "./lib/index.js",
@@ -51,7 +51,7 @@
   },
   "homepage": "https://github.com/ryandrewjohnson/react-localize-redux#readme",
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^17.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
