@@ -1,3 +1,9 @@
+> **⚠ NOTE**: This is a fork!
+
+The main package is [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux). This fork was created only to include the fix in the PR [Add missing type import that crashes Vite builds](https://github.com/ryandrewjohnson/react-localize-redux/pull/224).
+
+---
+
 <p align="center">
   <a href="https://github.com/ryandrewjohnson/react-localize-redux">
     <img alt="React Localize" src="https://ryandrewjohnson.github.io/react-localize-redux-docs/images/react-localize-redux-new.png">
