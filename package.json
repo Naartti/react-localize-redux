@@ -1,6 +1,7 @@
 {
   "name": "@naartti/react-localize-redux",
   "version": "3.5.3",
+  "private": false,
   "description": "Localization library for handling translations in React",
   "main": "./lib/index.js",
   "module": "./es/index.js",
